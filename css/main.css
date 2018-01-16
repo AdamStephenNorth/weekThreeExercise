@@ -1,0 +1,14 @@
+body {
+  background-color: darkgray;
+  font-style: italic;
+  font-family:serif;
+}
+
+h1 {
+  text-align: center;
+  color: yellow;
+}
+
+#VariableNames .btn {
+  width: 15%;
+}
